@@ -4,7 +4,7 @@
 
 import SwiftUI
 
-public enum LighthouseColor {
+public extension Color {
     /// Color / Background / Base / Primary
     public static let backgroundBasePrimary = Color(
         light: UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1.000),
